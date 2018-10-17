@@ -1,3 +1,4 @@
+#Ma teen muudatuse mida sa tegelikult ei taha aga ma pean ikkagi tegema, et sa seda näeksid.
 #Ülesanne kaks
 #Rain Nõmmik
 # Kontrolltöö - variant 1
