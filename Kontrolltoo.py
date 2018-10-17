@@ -1,4 +1,5 @@
-# Rain Nõmmik
+#Ülesanne kaks
+#Rain Nõmmik
 # Kontrolltöö - variant 1
 
 # Ülesanne 1
